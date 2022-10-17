@@ -4,3 +4,4 @@ Todo o conteúdo é meramente ilustrativo, somente para uso de testes.
 
 Layout do projeto: https://catalogo.henriquealves7.repl.co/
 
+Disponível na Code Pen: https://codepen.io/alveshenrique-lab/pen/xxjeKLm?editors=1100
